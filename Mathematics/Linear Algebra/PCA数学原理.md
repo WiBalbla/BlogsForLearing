@@ -13,7 +13,7 @@ PCA（Principal Component Analysis）是一种常用的数据分析方法。PCA�
 
 其中“日期”是一个记录标志而非度量值，而数据挖掘关心的大多是度量值，因此如果我们忽略日期这个字段后，我们得到一组记录，每条记录可以被表示为一个五维向量，其中一条看起来大约是这个样子：
 
-https://latex.codecogs.com/gif.latex?\\(500,240,25,13,2312.15)^\mathsf{T}
+$(500,240,25,13,2312.15)^\mathsf{T}$
 
 
 ![image1](https://user-images.githubusercontent.com/58726787/146633219-540fd21c-a3b7-4066-8562-447dd0d18353.png)
